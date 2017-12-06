@@ -1,0 +1,15 @@
+
+/* ================================================
+ * Base
+ * ================================================ */
+
+.text-left { text-align: left; }
+.text-center { text-align: center; }
+.text-right { text-align: right; }
+
+.link { color: $color-primary; text-decoration: none; font-size: 16px; font-weight: bold; }
+.link:hover { color: $color-primary; cursor: pointer; }
+.link-hover:hover, .link-hover { cursor: pointer; }
+
+.clearfix:before, .clearfix:after { display: table; content: " "; }
+.clearfix:after { display: block; clear: both; font-size: 0; line-height: 0; height: 0; visibility: hidden; zoom: 1; }

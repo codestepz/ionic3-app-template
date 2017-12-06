@@ -1,2 +1,2 @@
-# ionic3-advanced-template
+# ionic3-advanced
 Ionic 3 Framework - Advanced Template.
